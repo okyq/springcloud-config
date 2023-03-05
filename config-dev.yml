@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: config-client-dev
 server:
   port: 3366
 #·þÎñ×¢²áµ½eurekaµØÖ·
