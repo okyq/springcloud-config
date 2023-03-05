@@ -1,2 +1,7 @@
-config:
-  info: this is master dev 001
+server:
+  port: 3355
+#服务注册到eureka地址
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
