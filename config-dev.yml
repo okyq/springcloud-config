@@ -1,7 +1,9 @@
 server:
   port: 3366
-#服务注册到eureka地址
+#路镁脦帽脳垄虏谩碌陆eureka碌脴脰路
 eureka:
   client:
     service-url:
       defaultZone: http://localhost:7001/eureka
+config:
+  info: this is main/config-dev.yml
