@@ -9,4 +9,4 @@ eureka:
     service-url:
       defaultZone: http://localhost:7001/eureka
 config:
-  info: this is main/config-dev.yml xxxxxx
+  info: this is main/config-dev.yml sfasefseagasgf
