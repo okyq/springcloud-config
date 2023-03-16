@@ -1,12 +1,2 @@
-spring:
-  application:
-    name: config-client-main
-server:
-  port: 3355
-#·þÎñ×¢²áµ½eurekaµØÖ·
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:7001/eureka
 config:
   info: this is main/config-dev.yml sfasefseagasgf
